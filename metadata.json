@@ -1,0 +1,6 @@
+{
+  "name": "IronTrack - Rutinas & Progreso Gym en Vivo",
+  "description": "Webapp de entrenamiento para clientes de gimnasio con rutinas personalizadas, registro serie a serie en tiempo real, cronómetro de descanso, cálculo de 1RM y gráficas de progreso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
